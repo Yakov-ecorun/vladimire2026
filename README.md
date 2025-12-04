@@ -9,3 +9,4 @@ What I'm currently learning:
 - Networking basics (TCP/IP, OSI, DNS, HTTP/SSH);
 - Virtualization (VirtualBox/WSL);
 - Docker & containerization.
+Contact me: [email](vladimirrpolyakovv@gmail.com)
