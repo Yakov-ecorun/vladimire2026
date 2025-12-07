@@ -1,5 +1,9 @@
-Hi! I'm Vladimir Poliakov.  
-A beginner Cloud & DevOps Engineer / Python Engineer. Actively learning Linux, Git, Bash, Docker, networking, and cloud technologies. I aim to become a specialist who can automate, deploy, and maintain modern systems.
+Hi! I'm Vladimir Poliakov.
+I’m starting my path in Cloud, DevOps and Backend automation.
+I actively learn Linux, Bash, Python, networking fundamentals and CI/CD concepts while building small but practical training projects.
+Based in Novi Sad, Serbia.
+
+I enjoy working with infrastructure, automating tasks, understanding how systems run under the hood, and continuously improving my skills through hands-on practice.
 What I'm currently learning:
 - Basic DevOps tools;
 - Linux (ubuntu, network utilities, permissions, processes);
@@ -7,6 +11,6 @@ What I'm currently learning:
 - Python (automation scripts);
 - Git & GitHub;
 - Networking basics (TCP/IP, OSI, DNS, HTTP/SSH);
-- Virtualization (VirtualBox/WSL);
-- Docker & containerization.
+- Virtualization (VirtualBox/WSL).
+
 Contact me: [email](mailto:vladimirrpolyakovv@gmail.com)
