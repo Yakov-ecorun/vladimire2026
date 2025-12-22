@@ -2,7 +2,7 @@ Hi! I'm Vladimir Poliakov.
 
 I’m starting my journey in **Cloud, DevOps, and backend automation**, focusing on building a strong foundation through hands-on practice rather than just theory.
 
-I actively learn and practice **Linux, Bash, Python, Git, networking fundamentals, and CI/CD concepts**, while building small but practical projects that reflect real DevOps workflows — automation, monitoring, scripting, and troubleshooting.
+I actively learn and practice **Linux, Bash, Python, Git, networking fundamentals and CI/CD concepts**, while building small but practical projects that reflect real DevOps workflows — automation, monitoring, scripting, and troubleshooting.
 
 I enjoy working close to infrastructure, automating repetitive tasks, understanding how systems work under the hood, and improving reliability through simple but effective tooling.
 
